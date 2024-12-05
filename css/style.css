@@ -282,6 +282,9 @@ nav .hamburger {
   text-decoration: none;
   color: #f5f5f5;
 }
+.portfolio a {
+  width: 30%;
+}
 .portfolio a:hover {
   transition: all 0.5s;
   transform: scale(1.03);
@@ -328,6 +331,9 @@ nav .hamburger {
   }
   .portfolio .content {
     flex-direction: column;
+  }
+  .portfolio a {
+    width: 100%;
   }
   .technical .content div:first-child {
     width: 100%;
