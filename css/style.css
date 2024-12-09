@@ -184,9 +184,10 @@ nav .hamburger {
   color: #000;
 }
 
-.hero .content p {
+.hero .content h2 {
   font-size: 35px;
   color: #000;
+  font-weight: normal;
 }
 
 .hero .content img {
