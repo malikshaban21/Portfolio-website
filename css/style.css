@@ -299,6 +299,18 @@ nav .hamburger {
   max-width: 100%;
   border-radius: 12px;
 }
+.portfolio1 .content {
+  padding-top: 20px;
+
+  margin: 0px 10px;
+}
+.portfolio1 .content img {
+  max-width: 100%;
+  border-radius: 12px;
+}
+.portfolio1 .content ul li {
+  margin: 10px 0px;
+}
 
 .footer p {
   text-align: center;
